@@ -1,7 +1,7 @@
 # web-dev-101
 Repo for Pearl Hacks 2023
 
-Link to Presentation Slides: bit.ly/3RKiVOQ
+Link to Presentation Slides: https://docs.google.com/presentation/d/1-eG3if3tkiaOnyvRGKQuTv0A5_KYlodG_zSXagSx-gk/edit?usp=sharing
 
 Link to W3 Editor: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default
 
